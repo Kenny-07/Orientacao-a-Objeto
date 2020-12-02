@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\bin\Debug\netcoreapp3.1\Orientacao-a-Objeto.exe
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\bin\Debug\netcoreapp3.1\Orientacao-a-Objeto.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\bin\Debug\netcoreapp3.1\Orientacao-a-Objeto.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\bin\Debug\netcoreapp3.1\Orientacao-a-Objeto.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\bin\Debug\netcoreapp3.1\Orientacao-a-Objeto.dll
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\bin\Debug\netcoreapp3.1\Orientacao-a-Objeto.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.dll
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Orientacao-a-Objeto\obj\Debug\netcoreapp3.1\Orientacao-a-Objeto.genruntimeconfig.cache
